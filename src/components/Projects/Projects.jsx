@@ -25,7 +25,7 @@ function Projects() {
               isBlog={false}
               title="Zomato API - Food Ordering System"
               description="Developed a food order application using Spring Boot, featuring a RESTful API for seamless client-server interactions. Designed and implemen-ted APIs for managing customers, restaurants, and menus with efficient CRUD operations. Utilized Hibernate for Object-Relational Mapping (ORM) to streamline database interactions with MySQL. Implemented email-based authentication to enhance user account security."
-              ghLink=""
+              ghLink="https://github.com/Pratham-dhobi/zomato"
             />
           </Col>
 
@@ -35,7 +35,7 @@ function Projects() {
               isBlog={false}
               title="Ecommerce Web Application"
               description="I developed an e-commerce web application using Spring MVC, featuring functionalities like secure payment integration, user authentication, and session management. The application includes OTP-based email authentication for added security and ensures a smooth user experience through an efficient architecture. With a focus on scalability and responsi-veness, this project demonstrates my skills in creating robust web solutions using the Spring MVC framework."
-              ghLink=""
+              ghLink="https://github.com/Pratham-dhobi/ecommerce-app"
             />
           </Col>
 
@@ -46,7 +46,6 @@ function Projects() {
               title="Weather Application"
               description="This responsive weather application provides real-time weather data, including temperature, pressure, UV index etc. for various locations. It also offers an hourly and 15-day temperature forecast, ensuring users stay updated with both current and future weather conditions with user-friendly interface. This application built with HTML, CSS and Vanilla Javascript."
               ghLink="https://github.com/Pratham-dhobi/weather-app"
-              demoLink=""
             />
           </Col>
 
@@ -57,7 +56,6 @@ function Projects() {
               title="Amazon Data Visualization Dashboard"
               description="I developed a Tableau project focused on visualizing Amazon data to uncover valuable insights. The project includes interactive dashboards showcasing key metrics like sales trends, customer distribution, and product performance across categories. Visualizations such as bar charts, line graphs, and heatmaps were used for a comprehensive analysis. This project demonstrates my proficiency in data visualization and storytelling."
               ghLink="https://github.com/Pratham-dhobi/Tableau-Projects/tree/main/AmazonData"
-              demoLink=""
             />
           </Col>
 
@@ -67,8 +65,7 @@ function Projects() {
               isBlog={false}
               title="Superstore Data Visualization Dashboard"
               description="I created a Tableau project for Super Store data visualization, providing detailed insights into sales performance, profit trends, and customer demographics. The project features interactive dashboards with visualizations like bar graphs, pie charts, and heatmaps to analyze regional and category-wise performance. This project highlights my ability to transform raw data into actionable business insights through effective visualization."
-              ghLink="https://github.com/Pratham-dhobi/Tableau-Projects/tree/main/SuperStoreData"
-              demoLink=""            
+              ghLink="https://github.com/Pratham-dhobi/Tableau-Projects/tree/main/SuperStoreData"          
             />
           </Col>
 
@@ -79,7 +76,6 @@ function Projects() {
               title="Olympic Data Visualization Dashboard"
               description="I developed a Tableau project to visualize Olympic data, showcasing trends in medal counts, athlete performance, and country-wise achievements over the years. The project includes interactive dashboards with visual elements like line charts, heatmaps, and geographical maps for an engaging analysis. It provides valuable insights into historical data and patterns in the Olympics, reflecting my expertise in data visualization and analytics."
               ghLink="https://github.com/Pratham-dhobi/Tableau-Projects/tree/main/Summer_Olympic_Data"
-              demoLink=""
             />
           </Col>
         </Row>
